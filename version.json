@@ -1,4 +1,4 @@
 {
-    "version": "0.1",
-    "installer_url": "https://github.com/<user>/<repo>/releases/download/v0.2.0/startovky_setup.exe"
+    "version": "0.1.0",
+    "installer_url": "https://github.com/pernylad/startovky/releases/download/v0.1.0/startovky_setup.exe"
 }
